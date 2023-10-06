@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "Admin",
+      "password": "test1234",
+      "email": "admin@in.com",
+      "gender": "Male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "satya",
+      "name": "Satya",
+      "password": "satya123",
+      "email": "satya@gmail.com",
+      "gender": "Male",
+      "role": "Staff",
+      "isactive": false
+    },
+    {
+      "id": "sanant",
+      "name": "Sanant Sangram",
+      "password": "qwerty1234",
+      "email": "sanant@gmail.com",
+      "gender": "Male",
+      "role": "Quality",
+      "isactive": true
+    },
+    {
+      "id": "ujjwal",
+      "name": "Ujjwal Kumar",
+      "password": "ujjwal123",
+      "email": "ujjwal@gmail.com",
+      "gender": "Male",
+      "role": "Quality",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "code": "Staff",
+      "name": "Staff"
+    },
+    {
+      "code": "Quality",
+      "name": "Quality"
+    }
+  ]
+}
